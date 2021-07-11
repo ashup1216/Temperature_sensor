@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Living Room Thermostat",
+    "type": "Temperature Sensor",
+    "createdAt": "2019-12-31T00:00Z",
+    "units": "Celsius"
+  },
+  {
+    "id": 2,
+    "name": "Living Room Humdifier",
+    "type": "Humidity Sensor",
+    "createdAt": "2019-12-31T00:00Z",
+    "units": "%"
+  },
+  {
+    "id": 3,
+    "name": "Garage Thermostat",
+    "type": "Temperature Sensor",
+    "createdAt": "2019-12-31T00:00Z",
+    "units": "Celsius"
+  },
+  {
+    "id": 4,
+    "name": "Garage Humdifier",
+    "type": "Humidity Sensor",
+    "createdAt": "2019-12-31T00:00Z",
+    "units": "%"
+  }
+]
